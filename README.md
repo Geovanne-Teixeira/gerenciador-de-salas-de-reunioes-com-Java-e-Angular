@@ -1,1 +1,1 @@
-# :Gerenciador de salas de reunioes com Java e Angular:.
+# Gerenciador de salas de reunioes com Java e Angular.
